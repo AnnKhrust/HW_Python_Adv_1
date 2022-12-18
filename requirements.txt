@@ -1,0 +1,2 @@
+python-telegram==0.16.0
+csv2notion==0.3.7
